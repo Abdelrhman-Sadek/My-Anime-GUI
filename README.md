@@ -36,5 +36,5 @@ with help of **My Ainme List (MAL)** using selenium web driver I scraped the fol
 I used selenium to scrap form the **Top Ainmes List** to scrap 25 page around(1250 anime) *because in my opinion animes after this are un watchable and I dont care about*
 </br>
 I made the scarping code modifiable and responds to the users input if u run the code it will ask you how many pages you want to scrap you can scrap less or more as you like and the like of the list you can replace it with the (most popular,top aring,etc) (Note if it must be a link of a list to run smooth without any problems)
-</br>
+
 ![plot](https://user-images.githubusercontent.com/94745919/232259708-19e05348-7785-4299-9d48-73b742379bb1.jpg)
