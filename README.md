@@ -88,4 +88,38 @@ But there is a good production going to the **R rating(17+)**
 <br>
 And to be honest I watched alot of the Teens 13 or older rating and I realy enjoyed it wasn't bad at all
 ### GUI
+![Screenshot (501)](https://user-images.githubusercontent.com/94745919/232339644-2330f123-cf19-4fd1-addb-14eb9f44eaf9.png)
+<br>
+lets walk through this GUI
+<br>
+this GUI have 5 buttons everyone of them do a function:
+<br>
+#### Search
+This button will return all the animes that starts with the **name or laters** the user input
+![Screenshot (502)](https://user-images.githubusercontent.com/94745919/232340055-e6d5ed87-69a8-4d1a-b178-af0130cdd551.png)
+<br>
+#### Recomendation By Story Like
+This button will give a **Recommendation** for 15 anime depending on the user anime input by **story overview**
+<br> 
+*Note: as the seacrh button you can inter the first letter of the anime and it will return the highest anime name that match your input*
+![Screenshot (503)](https://user-images.githubusercontent.com/94745919/232340566-f6cf9dd9-5141-4a9e-831a-24eac07a2f36.png)
+<br> 
+#### Recomendation By Genres Like
+This button will give a **Recommendation** for 15 anime depending on the user anime input by **Anime Genres**
+<br> 
+*Note: as the seacrh button you can inter the first letter of the anime and it will return the highest anime name that match your input*
+![Screenshot (504)](https://user-images.githubusercontent.com/94745919/232341272-3963f848-f899-4b0f-846c-62d05548d8f7.png)
 
+#### Recomendation By Themes Like
+This button will give a **Recommendation** for 15 anime depending on the user anime input by **Anime Themes**
+<br> 
+*Note: as the seacrh button you can inter the first letter of the anime and it will return the highest anime name that match your input*
+![Screenshot (505)](https://user-images.githubusercontent.com/94745919/232341333-6cda7e8f-88ad-4807-b82a-7ebb8dd9e7a5.png)
+
+#### Get_Information
+This button will give you all the information you need about the anime the user inputs like:
+<br> 
+*Themes,Genres,Series Name,Prequel,Sequel,Main Hero,Supporting Heroes,Supporters and alot more*
+<br>
+*Note: as the seacrh button you can inter the first letter of the anime and it will return the highest anime name that match your input*
+![Screenshot (506)](https://user-images.githubusercontent.com/94745919/232341401-7e8e4820-44b0-4327-8961-c04a026f50e1.png)
