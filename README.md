@@ -66,6 +66,7 @@ The members shows how popular the anime is the most popular 2 by far are **attac
 ![image](https://user-images.githubusercontent.com/94745919/232336398-f4a05c50-0c38-4531-bbfd-a20c6ceaa819.png)
 <br>
 unexpectedly they are not the most Favorites as **fullmetal '1'** and **HXH '2'** comes in the frist 2 places as most favorites and the most popular ones comes in the **Death Note '5'** and **attack on titen'6'**
+<br>
 ![Screenshot (500)](https://user-images.githubusercontent.com/94745919/232336508-98633c51-15d0-4130-a8e8-6d4b16e483eb.png)
 <br>
 The Action genre dominates 43% of the animes and Fantasy with 28% and with less than 1% gose to Girls Love,Romance and Slice of life genres
