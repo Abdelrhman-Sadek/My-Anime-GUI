@@ -36,4 +36,5 @@ I used selenium to scrap form the **Top Ainmes List** to scrap 25 page around(12
 </br>
 I made the scarping code modifiable and responds to the users input if u run the code it will ask you how many pages you want to scrap you can scrap less or more as you like and the like of the list you can replace it with the (most popular,top aring,etc) *Note if it must be a link of a list to run smooth without any problems 
 </br>
-![Screenshot (498)](https://user-images.githubusercontent.com/94745919/232259272-f920d3d6-ca9d-4dfe-979d-28a8390f71d7.png)
+![Screenshot (498)](https://user-images.githubusercontent.com/94745919/232259316-7bd68dd5-c485-4f07-9530-22efe347ac0a.jpg)
+
