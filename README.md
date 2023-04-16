@@ -71,3 +71,21 @@ unexpectedly they are not the most Favorites as **fullmetal '1'** and **HXH '2'*
 <br>
 The Action genre dominates 43% of the animes and Fantasy with 28% and with less than 1% gose to Girls Love,Romance and Slice of life genres
 ![image](https://user-images.githubusercontent.com/94745919/232336551-761be6dd-ee14-406d-8892-ed1c21db84e3.png)
+<br>
+The most common anime themes you will find in the top ainmes are **School,Adult Cast,Psychological** and **Mysology**
+![image](https://user-images.githubusercontent.com/94745919/232336822-8d97bb3c-1a27-48f2-aa5d-e217f8376d95.png)
+<br>
+over half of the production of the ainme gose to **TV** as a main platform but we can not lose sight of **Movies** too in the second place but not as heavy as **TV**
+<br>
+![image](https://user-images.githubusercontent.com/94745919/232336879-00f89036-9c50-4124-b221-7692a2a05980.png)
+
+and here comes the sad part for ever anime lover and defender
+<br>
+the plot shows that the majorty of the top animes ranting are for **Teens 13 or older** over (600 of 1000)
+<br>
+But there is a good production going to the **R rating(17+)**
+![image](https://user-images.githubusercontent.com/94745919/232336943-9571e145-fe11-49f5-96a5-53ebca0cf494.png)
+<br>
+And to be honest I watched alot of the Teens 13 or older rating and I realy enjoyed it wasn't bad at all
+
+
