@@ -40,4 +40,16 @@ I made the scarping code modifiable and responds to the users input if u run the
 ![alt text](https://user-images.githubusercontent.com/94745919/232259708-19e05348-7785-4299-9d48-73b742379bb1.jpg)
 </br>
 ### Data Analysis
+The analysis is going to be about the frist 1250 anime in the top ainmes
+</br>
+around 85% of the top ranked animes are the **Not original** work and are **Alternative_version** and dont have one (Remaster)
+![image](https://user-images.githubusercontent.com/94745919/232334713-a4850472-d52c-4659-aa11-7f0053157a9c.png)
+</br>
+80% of the animes have anime or movie side story of the anime(storys about some of sup caracters)
+![image](https://user-images.githubusercontent.com/94745919/232334870-ae2a20fb-3341-423d-ae93-3694d4675354.png)
+</br>
+out of top ranked animes only 40% of the animes that have **seires** and the rest are **stand alone** animes
+(completed on one show)
+![image](https://user-images.githubusercontent.com/94745919/232334890-0ae10435-f13f-4b50-b436-5f47a631eac2.png)
+
 
