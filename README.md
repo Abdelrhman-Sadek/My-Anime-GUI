@@ -8,3 +8,32 @@ Anime is known for its distinctive visual style, which often features large eyes
 One of the unique characteristics of anime is its ability to tell stories across multiple episodes or seasons, allowing for more complex narratives and character development than traditional films or television shows.
 </br>
 Today, anime has become popular around the world and has inspired countless fans and creators. It continues to evolve and push artistic boundaries, making it an exciting and dynamic medium for storytelling.
+## Description
+the goal of this project is to **analyize** and **make a recommendation system** that recommends ainmes based on anime features like(story,genre,etc)then but it in a GUI to make it easyer to use 
+</br>
+### Collecting the data 
+with help of **My Ainme List (MAL)** using selenium web driver I scraped the folowing informations:
+</br>
+* Titles
+* Scores
+* Popularty
+* Ranked
+* Members
+* Paltform
+* Studio
+* Episodes
+* Aired
+* Genres
+* Themes
+* Demographic
+* Duration
+* Rating
+* Description(Synopsis)
+* Related Anime
+* Characters from Characters & Voice Actors
+* Favorites
+I used selenium to scrap form the **Top Ainmes List** to scrap 25 page around(1250 anime) *because in my opinion animes after this are un watchable and I dont care about*
+</br>
+I made the scarping code modifiable and responds to the users input if u run the code it will ask you how many pages you want to scrap you can scrap less or more as you like and the like of the list you can replace it with the (most popular,top aring,etc) *Note if it must be a link of a list to run smooth without any problems 
+</br>
+![Screenshot (498)](https://user-images.githubusercontent.com/94745919/232259272-f920d3d6-ca9d-4dfe-979d-28a8390f71d7.png)
