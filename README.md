@@ -125,5 +125,7 @@ This button will give you all the information you need about the anime the user 
 <br> 
 *Themes,Genres,Series Name,Prequel,Sequel,Main Hero,Supporting Heroes,Supporters and alot more*
 <br>
-*Note: as the seacrh button you can inter the first letter of the anime and it will return the highest anime name that match your input*
+**Note** 
+<br>
+as the seacrh button you can inter the first letter of the anime and it will return the highest anime name that match your input
 ![Screenshot (506)](https://user-images.githubusercontent.com/94745919/232341401-7e8e4820-44b0-4327-8961-c04a026f50e1.png)
