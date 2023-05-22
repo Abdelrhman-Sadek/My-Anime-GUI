@@ -33,6 +33,7 @@ with help of **My Ainme List (MAL)** using selenium web driver I scraped the fol
 * Characters from Characters & Voice Actors
 * Favorites
 </br>
+
 I used selenium to scrap form the **Top Ainmes List** to scrap 25 page around(1250 anime) *because in my opinion animes after this are un watchable and I dont care about*
 </br>
 I made the scarping code modifiable and responds to the users input if u run the code it will ask you how many pages you want to scrap you can scrap less or more as you like and the like of the list you can replace it with the most popular,top aring,etc 
